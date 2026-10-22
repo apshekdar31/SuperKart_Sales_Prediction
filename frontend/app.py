@@ -5,7 +5,7 @@ import requests
 
 # Base URL of the Flask backend
 #BACKEND_URL = "http://backend:7860"
-BACKEND_URL = "172.18.0.1:7860"
+BACKEND_URL = "http://172.18.0.1:7860"
 
 # Page title
 st.title("SuperKart Sales Prediction System")
